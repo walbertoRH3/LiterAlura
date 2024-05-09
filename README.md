@@ -612,7 +612,6 @@ public void ListarAutoresPorFallecimiento(){
 - Interfaz de usuario amigable 🛠️
 - Integración con API ExchageRate 🛠️
 
-
 ## 🤝 Contribución
 mis profesores de Alura Latam que me han ensañado mucho y siempre muy profesionales.
 
@@ -624,4 +623,4 @@ Este proyecto está bajo la licencia MIT.
 
 ## Autores
 
-1. Walberto Roblero Hernandez
+1. Walberto Roblero Hernández
